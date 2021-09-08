@@ -40,6 +40,7 @@ Demo - [Aqui](https://kgest-40906.web.app/)
 - [Styled-components](https://styled-components.com/)
 - [Material-UI](https://material-ui.com/)
 - [SupaBase](https://supabase.io/)
+- [FireBase](https://firebase.google.com/)
 - [VS Code](https://code.visualstudio.com/) with  [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 
