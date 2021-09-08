@@ -9,7 +9,7 @@
   <p>
     <img alt="Kgest" title="#NextLevelWeek" src="https://img.shields.io/badge/JavaScript-98.9%25-yellowgreen">
     <img alt="Kgest" title="#NextLevelWeek" src="https://img.shields.io/github/repo-size/kreittus/Kgest">
-    <img alt="Kgest" title="#NextLevelWeek" src="https://img.shields.io/github/last-commit/kreittus/Kgest)">
+    <img alt="Kgest" title="#NextLevelWeek" src="https://img.shields.io/github/last-commit/kreittus/Kgest">
     <img alt="Kgest" title="#NextLevelWeek" src="https://img.shields.io/github/license/kreittus/Kgest">
   </p>
 </h3>
