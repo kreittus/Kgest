@@ -28,7 +28,7 @@ Este projeto teve como objetivo principalmente o aprendizado no desenvolvimento 
 ![20210908_173129](https://user-images.githubusercontent.com/6740155/132581836-55c467f5-be86-4816-9665-8db1d5ba9ad2.gif)
 
 
-Demo - [Aqui](https://kgest-40906.web.app/)
+Demo - [Aqui](https://kgestdemo.web.app)
 
 <p>Usuario: user</p>
 <p>senha: 123</p>
