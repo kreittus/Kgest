@@ -17,7 +17,7 @@
 
 # 🚀 Projeto
 
-Este projeto teve como objetivo principalmente o aprendizado no desenvolvimento com ReactJS e também sanar a necessidade gestorial de barbearias 
+Este projeto teve como objetivo principalmente o aprendizado no desenvolvimento com ReactJS e também sanar a necessidade gestorial de barbearias da região.
 
 <h4> 
 	🚧  Kgest 🚀 Concluido  🚧
