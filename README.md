@@ -32,6 +32,8 @@ Este projeto teve como objetivo principalmente o aprendizado no desenvolvimento 
 # 🛠 Tecnologias
 
 - [ReactJS](https://pt-br.reactjs.org/)
+- [React Hooks](https://react.dev/reference/react/hooks)
+- [Context](https://pt-br.legacy.reactjs.org/docs/context.html)
 - [React-router-dom](https://github.com/remix-run/react-router)
 - [Styled-components](https://styled-components.com/)
 - [Material-UI](https://material-ui.com/)
