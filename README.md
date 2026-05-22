@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Kgest" title="#NextLevelWeek" src="src/assets/images/KGest.png">
+  <img alt="Kgest" src="src/assets/images/KGest.png">
   <p>Kgest</p>
 </h1>
 
